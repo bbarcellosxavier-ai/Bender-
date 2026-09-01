@@ -1,0 +1,26 @@
+{
+  "name": "Bender Personal",
+  "short_name": "Bender",
+  "description": "Treinos personalizados do seu personal trainer, direto no celular.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141416",
+  "theme_color": "#141416",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
